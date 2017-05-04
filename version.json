@@ -6,13 +6,5 @@
       "level": "notify",
       "feed": "https://openwmail.github.io/releasefeed"
     }
-  },
-  "prerelease": {
-    "version": "1.0.0",
-    "news": {
-      "id": 1,
-      "level": "notify",
-      "feed": "https://openwmail.github.io/prereleasefeed"
-    }
   }
 }
