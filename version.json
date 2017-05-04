@@ -4,7 +4,7 @@
     "news": {
       "id": 1,
       "level": "notify",
-      "feed": "https://thomas101.github.io/wmail/releasefeed"
+      "feed": "https://openwmail.github.io/releasefeed"
     }
   },
   "prerelease": {
@@ -12,7 +12,7 @@
     "news": {
       "id": 1,
       "level": "notify",
-      "feed": "https://thomas101.github.io/wmail/prereleasefeed"
+      "feed": "https://openwmail.github.io/prereleasefeed"
     }
   }
 }
